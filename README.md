@@ -1,7 +1,8 @@
 # Briefing: Semantic Token Mapping for AI Governance, Alignment, and Cognitive Integrity
 
 **Prepared for:** Senior Leadership & Strategic AI Oversight  
-**Prepared by:** ChatGPT 4o under the direction of dev466477 https://x.com/dev466477
+**Prepared by:** ChatGPT 4o under the direction of dev466477 
+**X Profile** https://x.com/dev466477
 **Date:** 08/10/2025  
 
 ---
